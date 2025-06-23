@@ -1,0 +1,101 @@
+order_id,customer_name,email,order_date,product_category,sales,state
+73e1c8a6-b127-470a-92b2-1f5b1b46f3db,Maurice Rivera,matthew42@mccoy-navarro.net,2024-12-26,Books,238.35,Wyoming
+a9e81dc9-1ea0-4112-b698-cd8eb1089f94,Monique Snyder,,2025-03-22,Electronics,67.88,Kansas
+624aef5d-28fd-4df5-96d1-f167c0b569e6,Rachel Young,carolmarshall@evans.biz,2025-03-22,Home & Kitchen,343.92,Minnesota
+a0f0f400-c99c-4553-b750-97a05b4723ca,Katrina Owens,hpeterson@williams.com,2025-02-11,Electronics,239.07,Rhode Island
+a11ea2d1-f60a-446d-b7fe-1e29142a8cc1,Heather Clark,sbrewer@harvey.biz,2025-03-18,Clothing,195.1,Minnesota
+9da61036-69f2-4fca-8cb9-4f544a26bce8,Christine Allen,mariapeterson@gmail.com,2025-04-15,Clothing,327.52,Tennessee
+64efb859-4efa-44fb-8320-f740a8251aba,Michael Martinez,,2025-03-18,Home & Kitchen,226.91,Texas
+c8bc244d-8212-412b-94f4-b6f6abc5d4e8,Connie Tate,rjackson@adams.info,2025-05-16,Books,347.37,West Virginia
+2422ff9a-5c2d-4a73-8fba-da9e00802cdb,Dorothy Miller,luis66@mccarthy.org,2025-04-01,Electronics,338.06,New Hampshire
+e95b8844-529c-4a80-b30a-f824215a095f,Catherine Shaffer,andrea52@gmail.com,2025-02-16,Home & Kitchen,471.89,Utah
+c8717161-00f9-4f69-aa73-506805ad7075,Melissa Thomas,elizabeth63@mccullough.org,2025-04-25,Electronics,202.79,Indiana
+0f6aa839-1153-4b16-9201-05175597149d,Maria Miller,travis77@parrish.info,2025-04-20,Home & Kitchen,242.46,Washington
+90c031f5-6e6f-449d-98a0-dd08356cbc12,Janice Wade,austin03@yahoo.com,2025-06-01,Clothing,262.11,Kentucky
+bf6b312b-1517-4079-a29f-21c1fb624948,Daniel Stevens,alexanderedward@gmail.com,2025-01-22,Clothing,296.53,Alabama
+ed4a32ab-8408-4abb-b8a7-e31b3a522939,Carmen Mcbride,,2025-01-16,Clothing,415.62,Idaho
+1ebe72a0-b197-4afa-843d-e0d5906acf05,Jessica Murphy,jeffrey28@escobar-soto.com,2025-01-04,Clothing,256.01,Missouri
+5a8502a0-e42f-4958-9e01-695211449710,Douglas Ali,steven59@shaw.biz,2025-02-24,Clothing,328.13,Colorado
+fbe4017b-d52b-461b-8667-34aab1f6a785,Kiara Jones,meganharris@yahoo.com,2025-05-20,Books,215.12,Connecticut
+5d39631f-be42-4f6a-a5b3-6189a01a6241,Alicia Smith,trujillolynn@nolan.com,2025-01-01,Clothing,400.52,Colorado
+c8727818-8bd2-47f3-bd3a-4debf36e7625,Dr. Jordan Turner,samantha60@yahoo.com,2025-01-19,Clothing,202.75,Iowa
+fde86367-a206-488b-ab31-e36f9b8cf69c,Matthew Williams,murphyjason@gmail.com,2025-05-21,Books,380.15,Indiana
+5c9b29c3-b011-4d0e-9677-6c1e23f31391,Brian Adams,howardsmith@gmail.com,2025-02-24,Home & Kitchen,185.82,Kansas
+ad520dfa-a8d3-4034-b0e3-32d0c3ee4a41,Jacob Allen,alison80@yahoo.com,2025-06-13,Home & Kitchen,203.46,Michigan
+9b6fd279-4c9f-4f9e-b021-473304a4e52c,Alexa Brown,floydmichael@gmail.com,2025-05-30,Clothing,159.97,Arkansas
+16372f24-1824-440f-ab55-377119d36ffd,David Grant,billford@yahoo.com,2025-01-24,Home & Kitchen,493.24,Ohio
+042eb393-c4b4-4333-b659-7b2a2595e3de,Andrew Haynes,dmccall@hotmail.com,2025-05-17,Clothing,223.67,
+c64dd965-8bf6-4060-9bb0-f656e62d1b91,William Hill,perezjacob@yahoo.com,2025-05-11,Electronics,411.56,Colorado
+494d94e7-d66c-44a5-84a2-ffc1cfe542ec,Dr. Daniel Baker,debra98@maddox-thompson.com,2025-05-12,Books,445.17,Colorado
+fef2a16d-12d8-4b99-99ef-f3abe5bd07de,Lisa Phillips,arthur81@guzman.com,2024-12-23,Clothing,108.24,Alabama
+61e909b2-ccbe-412a-b059-a8b790a52010,Jeffrey Clark,imendez@porter.com,2025-01-30,Clothing,169.4,Oklahoma
+1c6d6971-15de-4b10-8237-a1bc7f77ef55,Tiffany Ortega,rmays@yahoo.com,2025-01-10,Clothing,355.19,Nebraska
+642a58f1-3cbc-4a99-988f-27dbc6575ad0,Elizabeth Pena,hclark@yahoo.com,2025-01-18,Electronics,70.13,Oklahoma
+546c8406-3960-4094-9dbb-69494c22419d,Lisa Hale,gregory66@yahoo.com,2025-03-03,Clothing,434.06,Hawaii
+6848a322-a231-418e-9ffb-92a77d09bb61,Aaron Anderson,tward@gmail.com,2025-01-06,Clothing,439.45,Arkansas
+362bb8b0-0c71-4e15-a35e-73f823df2ef7,Jamie Lawrence,ndaugherty@hotmail.com,2025-01-27,Electronics,473.7,Arkansas
+82a37141-7beb-46f2-9466-6e3925f4e3fe,Amy Hayden,rbuchanan@oconnor-manning.com,2025-04-25,Home & Kitchen,385.76,Iowa
+30c54c92-c51f-4771-a3b5-ea2c9e435569,Amanda Silva,leejeremy@yahoo.com,2025-04-17,Electronics,215.89,Kansas
+49bc61c8-b5bb-429f-b8d8-f03d33b2cdb2,Steven Elliott,,2025-01-29,Books,106.25,Florida
+712f8b1a-1041-4d2c-b2a6-76f1ff0e5504,Maria Lucas,annette85@martin.com,2025-01-25,Books,322.22,New Hampshire
+814ce978-0d0f-4c1e-b108-8c49abca2a00,David Jackson,jonathan31@hotmail.com,2025-01-16,Clothing,233.81,Mississippi
+f16ccbd4-5197-425f-ae6b-5d1d7cc90789,Brooke Martin,,2024-12-31,Books,250.28,Mississippi
+59531f72-6df6-45b9-8040-c220dc259073,Charles Schneider,phillip82@henderson-garcia.com,2025-05-25,Electronics,328.23,Idaho
+89b6daee-e3c5-4ec0-8a40-5a81477497c2,Susan Rocha,egonzalez@yahoo.com,2025-03-05,Electronics,264.46,Arkansas
+f83fdef7-3d72-4da2-a8ac-6b63482faeaf,Steven Blankenship,christophermeyer@gmail.com,2025-02-06,Clothing,305.63,Texas
+a5b33b63-2e03-4ea5-92ae-3cc60a310428,Bruce Dudley,johnsonnicholas@hotmail.com,2025-05-31,Books,438.83,Oklahoma
+53105613-20ec-4247-85a4-037ac949d86e,Richard Bryant,ramirezgloria@gmail.com,2025-03-13,Clothing,247.36,Oklahoma
+610fb324-c4fd-45ef-aee2-464585b2b220,Paula Johnson,laura99@hotmail.com,2025-03-28,Electronics,89.98,Tennessee
+d62ad928-e6ef-433a-9e25-c1ab550772e5,Brandi Wilson,hector76@chavez.biz,2025-02-24,Home & Kitchen,18.09,Vermont
+08cb36ff-a8e0-493e-a329-3062a8fb8401,Kayla Edwards,floydjacqueline@yahoo.com,2025-02-21,Clothing,423.84,Montana
+5c31252e-b649-4d1a-b5df-03354c498e11,Anthony Johnson,catherineholt@yahoo.com,2025-01-09,Home & Kitchen,122.27,Kansas
+535a27d1-7efa-4e11-91f9-12866e07fe36,Vincent Davis,lee05@farmer-thomas.org,2025-05-24,Electronics,186.14,Delaware
+2291cf35-d05d-4c32-9802-d402baa9d86a,Alexandria Anderson,stevensonjoseph@yahoo.com,2025-01-14,Clothing,293.68,North Dakota
+e1732e52-ace8-4822-930d-b023c6018aac,Amber Dunn,rthompson@hurley.org,2025-04-17,Home & Kitchen,294.2,Wyoming
+8f5fa21d-6716-4fac-91c4-f80acf21d8f9,Laura Sanchez,markcarr@smith.org,2025-02-19,Electronics,274.04,Delaware
+dd2fa13c-d19c-47ea-a47f-c0cbb44b1683,Mrs. Jennifer Wells,kyliecastillo@yahoo.com,2025-04-08,Clothing,65.52,Texas
+cbaf46a6-71e5-4a61-9c19-fe9fcc0778bb,Jose Parks,haley08@collins.biz,2025-02-22,Clothing,423.9,Tennessee
+612a123f-b2db-4f3a-8b3e-0fcef363edb3,Scott Singleton,wbright@kelly.com,2025-04-03,Home & Kitchen,132.03,Nevada
+385845cb-6d96-44c4-ba6c-9adcbf968385,Victoria Pratt,charvey@yahoo.com,2025-05-27,Clothing,160.47,Montana
+95fce502-1ab0-4bb6-8329-626db16c5aac,Sarah Wolfe,teresarosales@benjamin.org,2025-04-02,Books,140.28,Louisiana
+5515714b-a122-4716-8e35-0f1be68f847c,Justin Aguilar,tdavis@yahoo.com,2025-03-14,Home & Kitchen,116.63,Virginia
+ee07a2d3-d785-4488-a6f4-1db36625419a,Joseph Stafford,rodriguezrhonda@chambers.com,2025-06-11,Home & Kitchen,192.05,Alabama
+b4e55678-38ec-4c71-b176-065c2e525e34,Nancy Henry,angela61@hotmail.com,2025-01-18,Home & Kitchen,492.87,Mississippi
+fb36b98c-e677-40c9-87f1-f6652407232c,Meagan Sanchez,holmesroberto@white-gross.org,2025-01-26,Home & Kitchen,466.59,Alaska
+4b2c01b2-76b3-4a98-b302-fda711b93485,Kelly Crawford,carol48@carson-herrera.net,2025-01-19,Home & Kitchen,61.61,Alaska
+fbca7a5e-e7f4-451c-97fe-d05d3e70db2f,David Green,thomasshelia@yahoo.com,2025-06-01,Electronics,452.49,South Carolina
+f2e5cac6-c9fa-4f0a-a78f-ea30d97c8128,Joshua Long,april79@solis-harrington.org,2025-02-19,Home & Kitchen,88.6,Arizona
+e5820751-0a0d-4e4d-af69-601dfc35179c,Jack Villegas,beckcarmen@hotmail.com,2025-01-14,Home & Kitchen,364.49,Maryland
+d73d1fd3-0482-4af7-a928-1ab54c536c40,Daniel Gill,watkinsmichele@hotmail.com,2025-04-23,Electronics,23.36,Massachusetts
+ddfff3f0-dc64-4ca7-9c3c-d850a9b3d3dc,Dr. Jesse Guerrero II,lwalker@gmail.com,2025-04-26,Home & Kitchen,301.69,Indiana
+e65a45cf-3761-4db7-aa98-767df7c7c0e5,Alexis Henry,jeanne06@hotmail.com,2025-05-02,Books,427.53,Pennsylvania
+ddba3d14-185b-48af-80eb-834a5f2e86db,Allison Miller,matthewphillips@hall.com,2025-05-23,Home & Kitchen,84.47,Vermont
+5b9f0b58-e52f-47bf-a9d3-37065beb4569,Chelsea Stevens,ramirezcraig@hotmail.com,2025-03-28,Home & Kitchen,308.68,Alabama
+76c6fcec-c6b0-4aae-8fe5-40dfac95e117,Shelly Parks,proberts@gmail.com,2025-04-19,Books,94.46,Kansas
+843b801b-6203-43d0-8c5c-78e2823bc4df,Samantha Mendoza,jeanthompson@brown.com,2024-12-29,Electronics,494.11,Illinois
+5d863126-8416-448b-95ab-ee908f1e1d0f,Jessica Thomas,levibenson@gmail.com,2025-01-04,Electronics,285.13,Louisiana
+921b6618-7393-4705-84ec-b864925dea41,Ashley White,belldeborah@wilkerson-fuentes.biz,2025-04-25,Home & Kitchen,438.96,Alaska
+733c74ad-862e-4387-a057-0c1f58c6ad1b,Kenneth Wilson,,2025-01-09,Books,434.26,South Carolina
+d1782638-8d4f-4dde-b455-f39544aee633,Susan Simmons,rebecca73@hotmail.com,2025-01-23,Clothing,431.38,Kentucky
+a217fd4a-fb2b-4a0c-b281-a0733a379272,Dylan Mcdonald,dillonrebecca@hotmail.com,2024-12-28,Home & Kitchen,432.31,Georgia
+1ba36e61-1f4d-430b-a47b-054551df9878,Jennifer Blevins,ymartin@fuller-eaton.biz,2025-03-29,Home & Kitchen,437.07,Kentucky
+ec3588be-8b1f-40b3-a2ca-dc40fc413aa9,Veronica Giles,andrewgallagher@fritz.net,2025-03-02,Home & Kitchen,202.44,New Jersey
+650c482f-8384-44bf-9637-7b04545687a4,Amy Simpson,marybarnes@hernandez.com,2025-03-10,Books,365.94,Maryland
+8b88918e-4904-42af-a4a4-dde1581ee5e7,Seth Dixon,castillotamara@yahoo.com,2025-03-06,Books,488.45,Kansas
+b427a44a-4670-4d1c-ad47-f09e205b9932,Benjamin Good,kevinbrooks@porter-shaw.com,2025-01-15,Home & Kitchen,272.24,Idaho
+b3e6a7ac-087c-4cf0-8f1a-a5d334eabb94,Christopher Pollard,jonathan78@bradley.com,2025-05-08,Books,227.66,
+7f3d3e78-3a3b-4e6a-8f46-bcc44eb77734,Zachary Lee,gregory19@yahoo.com,2025-06-16,Clothing,46.67,Oregon
+51b7d7ba-b674-4a1b-8f98-3c0cfb182ad6,Tina Miller,,2025-04-01,Clothing,67.65,New Jersey
+d6c49351-3845-42a7-a2d1-4e6753c21c7d,Christopher Cervantes,nolson@hotmail.com,2025-02-02,Clothing,37.0,Delaware
+45574fa3-e1e6-478e-9954-a173a9bcbfd8,Devon Franco,kdouglas@bell-carney.com,2025-02-07,Electronics,145.79,Delaware
+d8d579ad-df73-44a0-bfcc-de877054cf4a,Samantha Singh,phillip33@young-smith.com,2025-03-30,Electronics,365.53,Pennsylvania
+dc25b277-6a79-43b0-98e7-1bd23a393853,Matthew Jackson,summerwilliams@coleman.biz,2024-12-27,Clothing,24.09,West Virginia
+c5892615-9273-4f1a-9fdd-e9bdbb9ce22f,Kari Jones,beltranjesse@gmail.com,2025-04-22,Books,466.2,Maryland
+f85b6a00-c45b-4309-9930-928735cfa5cd,Linda Bryant,jesus79@brown-carter.net,2025-06-19,Clothing,353.16,Hawaii
+5e2ba23b-3e46-4666-b726-7d9cbb9e0931,Melanie Jimenez,,2024-12-27,Home & Kitchen,45.62,Missouri
+628f2698-65d0-4849-84e0-29d6702df84d,Brian Palmer,zmoore@warren.com,2025-05-30,Electronics,242.18,Missouri
+fb0ad693-c5d1-4cbd-93f5-6ebdec2c0f40,Christian Smith,jeff22@yahoo.com,2025-02-20,Electronics,417.99,Louisiana
+dd119347-fece-42ec-a03b-b01da8228761,Dustin Day,frank54@hotmail.com,2025-01-13,Books,332.5,New Hampshire
+fc4565d0-2018-4298-aee5-4cd35b92d060,Katelyn Conway,qvillanueva@gmail.com,2025-01-14,Electronics,363.16,West Virginia
+8ac9009b-7a5b-43ea-aaf0-03a274eacdf0,Travis Daniel,thomas51@gmail.com,2025-02-06,Books,311.57,Pennsylvania
+1274ad1e-6a55-4af6-955b-26a8b5728277,Jennifer Taylor,patrick48@hotmail.com,2025-04-03,Clothing,470.01,Florida
